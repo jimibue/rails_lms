@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+// @import "semantic-ui";
+
+ul > li {
+  list-style: none;
+  border: 1px solid green;
+  padding: 10px 0;
+  margin: 5px;
+}
